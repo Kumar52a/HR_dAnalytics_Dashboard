@@ -1,0 +1,18 @@
+~Project Learnings
+
+* Identified key factors to reduce attributions
+* Improved the Hiring Process
+* Improved Employee Experience
+* Made workforce more productive
+* Gained Employee Trust 
+
+
+~Project Objective
+
+*To develope a comprehensive Hr analytics dashboard that provide company's to reduce attributions and improved hiring process and gained employee trust.
+
+
+
+
+
+The HR analytics dashboard provided comprehensive insights into the factors affecting employee attrition. By focusing on improving the hiring process, employee experience, workforce productivity, and employee trust, the HR department can proactively address issues and reduce attrition rates effectively. The dashboard not only facilitated data-driven decision-making but also empowered the HR team to create a more engaging and productive workplace.
